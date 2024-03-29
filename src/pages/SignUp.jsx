@@ -40,7 +40,7 @@ const SignUp = () => {
             />
             <label className="sr-only">Re-Type Password</label>
             <input
-              id="password"
+              id="password2"
               type="password"
               placeholder="Re-Type Password"
               className="-mt-1 rounded-b-md dark:border-gray-400 dark:bg-gray-50 dark:text-gray-800 focus:dark:ring-violet-600 focus:dark:border-violet-600 focus:ring-2"
